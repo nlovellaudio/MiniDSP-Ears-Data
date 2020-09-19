@@ -1,0 +1,3 @@
+0.1 - Initial Fit
+0.2 - Aligned magnet structure holes
+0.3 - Fitted Brainwavz HM5 Angled Sheepskin pads
